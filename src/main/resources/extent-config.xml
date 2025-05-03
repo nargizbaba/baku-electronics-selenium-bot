@@ -1,0 +1,10 @@
+<extentreports>
+    <configuration>
+        <encoding>utf-8</encoding>
+        <protocol>https</protocol>
+        <reportName>My Project Test Report</reportName>
+        <documentTitle>Test Execution Report</documentTitle>
+        <theme>standard</theme>
+        <timelineEnabled>true</timelineEnabled>
+    </configuration>
+</extentreports>
