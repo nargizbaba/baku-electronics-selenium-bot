@@ -2,6 +2,8 @@
 
 This is a Java-based Selenium bot that automates browsing through [Baku Electronics](https://www.bakuelectronics.az), selects products, and adds them to the shopping basket. Developed in IntelliJ IDEA, it's designed for testing, demo purposes, and learning web automation techniques.
 
+Please update credentials in *Login.feature* file before launch!
+
 ---
 
 ## 🧰 Tech Stack
@@ -11,6 +13,14 @@ This is a Java-based Selenium bot that automates browsing through [Baku Electron
 - **Framework**: Selenium WebDriver
 - **Build Tool**: Maven
 - **Browser**: Chrome + ChromeDriver
+
+---
+
+### 🛠 Tools & Purpose
+
+- **JUnit**: Manages test execution and provides detailed result tracking.  
+- **Cucumber & Gherkin**: Enables writing test scenarios in a readable, business-friendly format.  
+- **Extent Reports**: Generates visually rich and detailed reports for test results.
 
 ---
 
